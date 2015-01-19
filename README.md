@@ -12,17 +12,13 @@ List of userscripts included:
     - `quickcomment`
 
         Comment shortcuts to cut down on tedium
-        
+
     - `review-shortcuts`
-    
+
         Keyboard shortcuts for use in /review
-        
+
 - `mod/`
 
     - `easy-timeline`
-    
+
         Much easier and simpler access to the mod timeline
-        
-    - `whois-sidebar`
-    
-        Highlights users mentioned in `whois` TL bot messages in chat sidebar
